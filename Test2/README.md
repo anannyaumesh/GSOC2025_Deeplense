@@ -85,17 +85,17 @@ FL(pt) = -α * (1 - pt)^γ * log(pt)
 ## Evaluation Metrics
 - **Classification Report:**
 <p align="center">
-  <img src="Task2/Task2_CR.png" width="400"/>
+  <img src="Test2_assets/Task2_CR.png" width="400"/>
 </p>
 
 - **Confusion Matrix:**
 <p align="center">
-  <img src="Task2/Task2_CM.png" width="400"/>
+  <img src="Test2_assets/Task2_CM.png" width="400"/>
 </p>
 
 - **Validation ROC-AUC:**
 <p align="center">
-  <img src="Task2/Task2_ROC.png" width="400"/>
+  <img src="Test2_assets/Task2_ROC.png" width="400"/>
 </p>
 
 ---
