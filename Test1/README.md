@@ -60,10 +60,12 @@ The model evaluation includes:
 <p align="center">
   <img src="Test1_assets/Task1_CM.png" width="400"/>
 </p>
+
 - ROC curves with AUC scores for each class
 <p align="center">
   <img src="Test1_assets/Task1_ROC.png" width="400"/>
 </p>
+
 ---
 
 ## Usage
